@@ -1,0 +1,27 @@
+{
+  "name": "bottwitchjs",
+  "version": "1.0.0",
+  "description": "Create twitch bot for my personnal use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flobev/Bot_Twitch_Js.git"
+  },
+  "keywords": [
+    "Twitch_Bot",
+    "Javascript",
+    "Node_Js"
+  ],
+  "author": "flo_bev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flobev/Bot_Twitch_Js/issues"
+  },
+  "homepage": "https://github.com/flobev/Bot_Twitch_Js#readme",
+  "dependencies": {
+    "tmi.js": "^1.4.5"
+  }
+}
